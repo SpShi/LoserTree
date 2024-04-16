@@ -1,0 +1,11 @@
+﻿  源.cpp
+C:\Users\shi'shao'pu\source\repos\LoseTree\LoseTree\源.cpp(12,12): warning C4129: “d”: 不可识别的字符转义序列
+C:\Users\shi'shao'pu\source\repos\LoseTree\LoseTree\源.cpp(13,23): warning C4129: “d”: 不可识别的字符转义序列
+C:\Users\shi'shao'pu\source\repos\LoseTree\LoseTree\源.cpp(22,14): warning C4129: “d”: 不可识别的字符转义序列
+C:\Users\shi'shao'pu\source\repos\LoseTree\LoseTree\源.cpp(23,12): warning C4129: “d”: 不可识别的字符转义序列
+C:\Users\shi'shao'pu\source\repos\LoseTree\LoseTree\源.cpp(24,24): warning C4129: “d”: 不可识别的字符转义序列
+C:\Users\shi'shao'pu\source\repos\LoseTree\LoseTree\externalsort.h(141,29): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\shi'shao'pu\source\repos\LoseTree\LoseTree\externalsort.h(110): message : 在编译 类 模板 成员函数“void externalsort<int>::mergeK(int,int,std::string)”时
+C:\Users\shi'shao'pu\source\repos\LoseTree\LoseTree\externalsort.h(226): message : 查看对正在编译的函数 模板 实例化“void externalsort<int>::mergeK(int,int,std::string)”的引用
+C:\Users\shi'shao'pu\source\repos\LoseTree\LoseTree\源.cpp(56): message : 查看对正在编译的 类 模板 实例化“externalsort<int>”的引用
+  LoseTree.vcxproj -> C:\Users\shi'shao'pu\source\repos\LoseTree\x64\Debug\LoseTree.exe
